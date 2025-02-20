@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Bán nhà mặt phố quận 8 - TP Hồ Chí Minh giá 18 tỷ",
+        "fee": "18,5 Tỷ",
+        "location": "Đường Phạm Hùng, Phường 4, Quận 8, TP Hồ Chí Minh",
+        "author": "Đặng Minh Tuấn"
+    },
+    {
+        "title": "Bán nhà Phú Đô, ô tô 7 chỗ vào nhà, 50m2, 4 tầng, giá rẻ nhất khu chỉ hơn 9 tỷ",
+        "fee": "9,6 Tỷ",
+        "location": "Đường Phú Đô, Phường Phú Đô, Nam Từ Liêm, Hà Nội",
+        "author": "Nguyễn Văn Hoà"
+    },
+    {
+        "title": "Căn hộ 2N2W Vinhomes Ocean Park Gia Lâm, full nội thất, sổ đỏ sẵn sàng giao dịch, hướng ĐN thoáng ",
+        "fee": "3,24 Tỷ",
+        "location": "Thuộc xã Đa Tốn – Kiêu Kỵ – Dương Xá và một phần thị trấn Trâu Quỳ, huyện Gia Lâm, TP Hà Nội",
+        "author": "Tạ Hồng Phước"
+    },
+    {
+        "title": "Bán chung cư H1 bến xe Mỹ Đình - Phạm Hùng - Nam Từ Liêm, nội thất đầy đủ, sổ hồng vĩnh viễn",
+        "fee": "750 - 850 Triệu",
+        "location": "Đường Phạm Hùng, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",
+        "author": "Hưng - Chủ Đầu Tư"
+    },
+    {
+        "title": "Bán tòa dòng tiền tại ngõ đường Bưởi phường Cống Vị Ba Đình Hà Nội giá 12,8 tỷ.",
+        "fee": "12,8 Tỷ",
+        "location": "Đường Bưởi, Phường Cống Vị, Quận Ba Đình, Hà Nội",
+        "author": "Phạm Quốc Dương"
+    },
+    {
+        "title": "Bán nhà 5 tầng ngõ đường Trần Thái Tông Dịch Vọng Hậu Cầu Giấy Hà Nội ",
+        "fee": "11,6 Tỷ",
+        "location": "Đường Trần Thái Tông, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",
+        "author": "Phạm Quốc Dương"
+    },
+    {
+        "title": "New chung cư Mễ Trì Hạ - Keang Nam 35 - 55m2, full nội thất, giảm 50tr căn, ở ngay, oto đỗ 10m",
+        "fee": "750 Triệu",
+        "location": "Đường Mễ Trì Hạ, Xã Mễ Trì, Quận Nam Từ Liêm, Hà Nội",
+        "author": "Mr Kiên Chủ Đầu Tư"
+    }
+]
